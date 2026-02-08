@@ -1,16 +1,26 @@
-# flutter_new_1
+# Cat Shop 🚀
 
-A new Flutter project.
+**Flutter E-Commerce App**
 
-## Getting Started
+A fully functional and scalable e-commerce app built with Flutter.  
+Perfect for learning Flutter, building portfolio projects, or selling as a template.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features ✅
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Full CRUD operations (Create, Read, Update, Delete)
+- Local SQLite database for offline storage
+- Clean and modern UI
+- Fast performance
+- Ready-to-build APK + Source Code
+- Easy to add payment gateway
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Getting Started 🏁
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/mfarhanofl/cat_shop.git
